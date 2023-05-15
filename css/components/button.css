@@ -1,0 +1,15 @@
+.btn-white {
+  	background-color: white;
+  	color: #FF6978;
+  	border: none;
+  	padding: 10px 20px;
+  	border-radius: 20px;
+  	text-decoration: none;
+  	font-family: "Roboto";
+  	display: inline-block;
+  	transition: background-image 0.2s ease-in-out;
+}
+
+.btn-white:hover {
+  	background-color: #FFD8BE;
+}

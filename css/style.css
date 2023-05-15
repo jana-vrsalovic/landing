@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+}
+h2 {
+  font-size: 24px;
+}
+
+.img-scale {
+  width: 200px;
+}
+
+/* 9381FF tamno plava
+/* B8B8FF svjetlo plava
+/* F8F7FF bijela
+/* FFEEDD svijetlo roza
+/* FF6978 tamno roza 
